@@ -5,7 +5,7 @@ header-img: img/home-bg.png
 email: sixtyhectares@yahoo.com
 copyright_name: Michael Pieschel
 description: > # this means to ignore newlines until "baseurl:"
-  Explorator= [["One who",["explores","examines closely"]],"a searcher"]
+  Explorator =[["One who",["explores","examines closely"]],"a searcher"]
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Xplor8r
