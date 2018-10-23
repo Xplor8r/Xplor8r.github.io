@@ -13,7 +13,7 @@ permalink:  surfers_log_sinatra_project
 
 Because I am passionate about surfing, I chose to create a surfing social network where surfers can share their surfing experiences. I quite enjoyed myself working on this project. Well, at least by half way through I began enjoying myself. Apparently, there is a minimum of one major hurdle that stands in my way during any project I pursue. I found myself stuck in the mud shortly after commencing. Setting up my Gemfile required getting through alot of unfamiliar errors involving my ActiveRecord version and my usage of Rack Flash.
 
-Once I cleared up some bugs, I quickly set up an App folder structure to organize my Models, Views and Controllers. A public folder holds CSS, Javascript, and image folders. I also included a Readme, a Rakefile, and last but not least a config folder with an environment file to get things moving.
+Once I cleared up some bugs, I quickly set up an App folder structure to organize my Models, Views and Controllers. A public folder holds CSS, Javascript, and image folders. I also included a Readme file and last but not least a config folder with an environment file to get things moving.
 
 The overly common model name of user is so, shall we say, used. I chose to set up a Surfer model which has many log_entries and a LogEntry model that belongs_to a surfer. Via rake:migrate commands in the terminal I set up a database table for both models. There is an application_controller and each model has their own controller. The Log_entries_controller handles the CRUD routes while the surfers_controller handles routes for login and sign up and validates a surfers password. 
 
