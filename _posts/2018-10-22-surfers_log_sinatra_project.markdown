@@ -21,8 +21,8 @@ The overly common model name of user is so, shall we say, used. I chose to set u
 
 From this point the possibilities were endless. Bootstraps framework became a close friend to me and helped me streamline the front end process. Images, a nav bar, forms, CSS stylesheets and JavaScript all came together into a nice box that looks clean and feels great to use. Please feel free to check it out!
 
-* [Surf Log Video Demo](https://youtu.be/PpkXoG4JFLY)
+* [Surfers Log Video Demo](https://youtu.be/PpkXoG4JFLY)
 
-* [Surf Log Github Repo](https://github.com/Xplor8r/surfers-log)
+* [Surfers Log Github Repo](https://github.com/Xplor8r/surfers-log)
 
 
