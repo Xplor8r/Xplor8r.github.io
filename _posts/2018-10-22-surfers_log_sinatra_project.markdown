@@ -1,13 +1,13 @@
 ---
 layout: post
 title:      "Surfers Log Sinatra Project"
-date:       2018-10-23 03:26:57 +0000
+date:       2018-10-22 23:26:58 -0400
 permalink:  surfers_log_sinatra_project
 ---
 
 
 
-##### Surf, log, share, using a new app called Surfers Log. Recording your surf sessions allows you to relive those epic days and to dial in a specific spot with specific conditions. Sign up today and start logging!
+### Surf, log, share, using a new app called Surfers Log. Recording your surf sessions allows you to relive those epic days and to dial in a specific spot with specific conditions. Sign up today and start logging!
 
 ![](https://surfheatercom.files.wordpress.com/2017/01/sportofkings.gif?w=376)
 
