@@ -11,7 +11,7 @@ permalink:  surfers_log_sinatra_project
 
 ![](https://surfheatercom.files.wordpress.com/2017/01/sportofkings.gif?w=376)
 
-Because I am passionate about surfing, I chose to create a surfing social network were surfer can share their surfing experiences. I quite enjoyed myself working on this project. Well, at least by half way through I began enjoying myself. Apparently, there is a minimum of one major hurdle that stands in my way during any project I pursue. I found myself stuck in the mud shortly after commencing. Setting up my Gemfile required getting through alot of unfamiliar errors involving my ActiveRecord version and my usage of Rack Flash.
+Because I am passionate about surfing, I chose to create a surfing social network where surfers can share their surfing experiences. I quite enjoyed myself working on this project. Well, at least by half way through I began enjoying myself. Apparently, there is a minimum of one major hurdle that stands in my way during any project I pursue. I found myself stuck in the mud shortly after commencing. Setting up my Gemfile required getting through alot of unfamiliar errors involving my ActiveRecord version and my usage of Rack Flash.
 
 Once I cleared up some bugs, I quickly set up an App folder structure to organize my Models, Views and Controllers. A public folder holds CSS, Javascript, and image folders. I also included a Readme, a Rakefile, and last but not least a config folder with an environment file to get things moving.
 
