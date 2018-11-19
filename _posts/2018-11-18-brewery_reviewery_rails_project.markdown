@@ -21,3 +21,8 @@ My passion for tasty craft brewery ales guided me through this project. I've bee
 In the end I feel confident that my skills working with Ruby on Rails will be a great asset in my transition into a new career as a developer. I have gone through so many peaks and valleys during the school over the last few months. I am so ready to hit that 3/4 mark for the program and start rocking the Javascript! 
 
  ![](https://media.giphy.com/media/V6vYGxjArFFde/giphy.gif)
+ 
+ Edit: Done! You can check out Brewery Reviewery on github or youtube
+ 
+*  [github repo](https://github.com/Xplor8r/brewery_reviewery)
+*  [youtube](https://youtu.be/rq77gj87T0w)
