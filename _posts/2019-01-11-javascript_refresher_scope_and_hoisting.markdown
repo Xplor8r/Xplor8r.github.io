@@ -118,4 +118,4 @@ var tango = function() {
 
 Since the assignment to `tango` is not hoisted, an exception is thrown for trying to call a non-function variable.
 
-In conclusion, scope and hoisting are to very important concepts to grasp when working with JavaScript. To avoid dealing with bugs(and being an unhappy Tango) it is good practice to use `let` and `const`. By single variable declaration at the top of any particular scope you can increase your chances of writing stress free(happy Cash) code.
+In conclusion, scope and hoisting are two very important concepts to grasp when working with JavaScript. To avoid dealing with bugs(and being an unhappy Tango) it is good practice to use `let` and `const`. By single variable declaration at the top of any particular scope you can increase your chances of writing stress free(happy Cash) code.
