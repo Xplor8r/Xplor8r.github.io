@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "JavaScript Refresher: Scope and Hoisting"
-date:       2019-01-12 04:43:29 +0000
+date:       2019-01-11 23:43:30 -0500
 permalink:  javascript_refresher_scope_and_hoisting
 ---
 
@@ -36,7 +36,7 @@ Hoisting basically is when JavaScript moves all variable and function declaratio
 
 Taking a look at a few examples below we can examine scope and hoisting further.
 
-**FUN FACT: commonly used by programmers, the terms foo and bar originate from the WWII slang word [FUBAR](https://en.wikipedia.org/wiki/FUBAR_(disambiguation) which was famously used in the 1989 film Tango and Cash**
+**FUN FACT: commonly used by programmers, the terms foo and bar originate from the WWII slang word [FUBAR](https://en.wikipedia.org/wiki/FUBAR_(disambiguation)) which was famously used in the 1989 film Tango and Cash**
 
 ```
 function fubar() {
