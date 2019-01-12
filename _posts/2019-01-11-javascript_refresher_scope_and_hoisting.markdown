@@ -11,7 +11,7 @@ In JavaScript it may seem like scope is a very basic and easy thing to grasp but
 >
 >  -Douglas Crockford, JavaScript: The Good Parts
 
-The block of code where a variable or argument is declared determines its scope. When using `let` or `const`, the scope of a variable is the block in which it is declared. When calling `var` in a `for` loop block will assign the variable to the scope of the nearest enclosing function. This is a JavaScript feature called hoisting.
+The block of code where a variable or argument is declared determines its scope. When using `let` or `const`, the scope of a variable is the block in which it is declared. Calling `var` in a `for` loop block will assign the variable to the scope of the nearest enclosing function. This is a JavaScript feature called hoisting.
 
 Lets see this in action below.
 
