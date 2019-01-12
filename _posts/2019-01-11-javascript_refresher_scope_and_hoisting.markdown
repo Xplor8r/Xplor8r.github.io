@@ -5,13 +5,13 @@ date:       2019-01-11 23:43:30 -0500
 permalink:  javascript_refresher_scope_and_hoisting
 ---
 
-In JavaScript it may seem like scope is a very basic and easy thing to grasp but it could be something all JS developers, junior to senior, will repeatedly run into problems with. Variables in JavaScript are declared using the `var`, `let`, or `const` and where they are called dictates it's scope. If `var` is declared in the global context, it is in the global scope. This is where variables can become a bit buggy, and it's best to never use var in a global context.
+In JavaScript it may seem like scope is a very basic and easy thing to grasp but it could be something all JS developers, junior to senior, will repeatedly run into problems with. Variables in JavaScript are declared using the `var`, `let`, or `const` and where they are called dictates it's scope. If `var` is declared in the global context, it is in the global scope. This is where variables can become a bit buggy, and it's best to never use `var` in a global context.
 
 >The worst of all of JavaScript's bad features is its dependence on global variables. A *global  variable* is a variable that is visible in every scope. Global variables can be a convenience in very small programs, but they quickly become unwieldy as programs get larger.
 >
 >  -Douglas Crockford, JavaScript: The Good Parts
 
-The block of code where a variable or argument is declared determines its scope. When using `let` or `const`, the scope of a variable is the block in which it is declared. This means calling `var` in a `for` loop block will assign the variable to the scope of the nearest enclosing function. This is a JavaScript feature called hoisting.
+The block of code where a variable or argument is declared determines its scope. When using `let` or `const`, the scope of a variable is the block in which it is declared. When calling `var` in a `for` loop block will assign the variable to the scope of the nearest enclosing function. This is a JavaScript feature called hoisting.
 
 Lets see this in action below.
 
@@ -67,7 +67,7 @@ fubar();
 
 **Oops!**
 
-Now we see that though `var bar` doesn't show up in `console.log`'s radar yet and sees the value of `bar` as undefined. Now we will declare our variables above the `console.log` yet assign `var bar` below and see what happens.
+Now we see that `var bar` doesn't show up in `console.log`'s radar yet and sees the value of `bar` as undefined. Now we will declare our variables above the `console.log` yet assign `var bar` below and see what happens.
 
 ```
 function fubar() {
