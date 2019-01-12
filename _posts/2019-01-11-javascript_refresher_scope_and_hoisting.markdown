@@ -114,7 +114,7 @@ var tango = function() {
 
 ![](https://i.imgur.com/GCNcXBz.gif?noredirect)
 
-**Nothing! **
+**Nothing!**
 
 Since the assignment to `tango` is not hoisted, an exception is thrown for trying to call a non-function variable.
 
