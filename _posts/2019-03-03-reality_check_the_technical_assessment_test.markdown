@@ -1,12 +1,12 @@
 ---
 layout: post
 title:      "Reality Check: The Technical Assessment Test"
-date:       2019-03-04 03:59:43 +0000
+date:       2019-03-03 22:59:44 -0500
 permalink:  reality_check_the_technical_assessment_test
 ---
 
 
-Just twenty minutes ago I completed my first two online multiple-choice skills assessment tests. They covered the subjects of Ruby on Rails and React. I can only say that I might not ever see the results but have a very mixed outlook on the results.
+Just twenty minutes ago I completed my first two online multiple-choice skills assessment tests. They covered the subjects of Ruby on Rails and React. I can only say that I might not ever see the results but have a very mixed outlook on what they might look like.
 
 I successfully completed a first phone screen last week with a technical recruiter at a hiring agency for a remote Ruby on Rails and React developer position. My dream job!
 
