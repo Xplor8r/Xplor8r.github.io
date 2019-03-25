@@ -6,7 +6,7 @@ permalink:  job_search_6_weeks_in
 ---
 
 
-I am struggling to find a topic to cover in this weeks blog post. As I approach the end of my sixth week of the job searching, I figure it might be interesting to look at how things have been for me over the past month and a half. I hope this will give perspective to other students and graduates. Let's take a look at some of my stats.
+I am struggling to find a topic to cover in this weeks blog post. As I approach the end of my sixth week of job searching, I figure it might be interesting to look at how things have been for me over the past month and a half. I hope this will give perspective to other students and graduates. Let's take a look at some of my stats.
 ### **Job applications sent - 58**
 ### **Officiall job rejections- 15**
 ### **Meetups attended - 12**
