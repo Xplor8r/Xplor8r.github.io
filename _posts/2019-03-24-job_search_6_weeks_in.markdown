@@ -28,6 +28,9 @@ I quit my job at the United States Postal Service as a Mail Carrier in order to 
 ### 2 months ago
 
 I graduated from Flatiron.
+###  Today
+
+I have above average proficiency in Ruby on Rails, React.js and a variety of other Web Development skills.
 ### 5 months from now
 
 My goal of getting my foot in the door of the Tech Industry will be fulfilled.
