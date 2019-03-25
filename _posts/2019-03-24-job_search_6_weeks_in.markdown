@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Job Search: 6 Weeks In"
-date:       2019-03-25 03:39:59 +0000
+date:       2019-03-24 23:40:00 -0400
 permalink:  job_search_6_weeks_in
 ---
 
@@ -21,7 +21,7 @@ It hasn't been easy keeping up the motivation. I regularly feel like I could and
 I made the decision to pivot careers and began self-educating myself in the field of Web Development. 
 ### 6 months ago
 
-I was accepted into Flatiron School's Full Stack Web Development Program.
+I was accepted into Flatiron School's online Full Stack Web Development Program.
 ### 4 months ago
 
 I quit my job at the United States Postal Service as a Mail Carrier in order to put all my efforts into my new career.
