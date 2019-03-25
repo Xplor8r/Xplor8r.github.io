@@ -35,6 +35,6 @@ I have above average proficiency in Ruby on Rails, React.js and a variety of oth
 
 My goal of getting my foot in the door of the Tech Industry will be fulfilled.
 
-I know that my hard work and perseverance will pay off. This has been one exiting adventure and difficult journey with several peaks and valleys. I look forward to being able to provide a valuable service to the world through my new-found technical abilities.
+I know that my hard work and perseverance will pay off. This has been an exiting and difficult journey with several peaks and valleys. I look forward to being able to provide a valuable service to the world through my new-found technical abilities.
 
 >  Strive not to be a success, but rather to be of value. –Albert Einstein
