@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "React + Bootstrap = reactstrap"
-date:       2019-04-14 18:00:34 +0000
+date:       2019-04-14 14:00:35 -0400
 permalink:  react_bootstrap_reactstrap
 ---
 
@@ -15,7 +15,8 @@ On it's own, React contains no method for creating responsive designs so using a
 
 Bootstrap depends on jQuery for powering specific user interface components. React uses a declarative approach for updating the DOM while jQuery directly manipulates the DOM. This only leaves room for using Bootstrap for the responsive 12 column grid and a couple other components that don't use jQuery.
 
-Inorder to fully connect React and Bootstrap there are several libraries to choose from. The reactstrap Library is a very popular choice that is in active development and built for the most recent version of Bootstrap.
+Inorder to fully connect React and Bootstrap there are several libraries to choose from. The reactstrap library is a very popular choice that is in active development and built for the most recent version of Bootstrap.
+
 Installing the reactstrap library is simply done using npm:
 
 `npm install --save reactstrap@next`
