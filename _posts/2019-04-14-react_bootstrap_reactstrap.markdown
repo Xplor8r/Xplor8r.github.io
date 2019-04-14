@@ -7,7 +7,7 @@ permalink:  react_bootstrap_reactstrap
 
 ![React + Bootstrap](https://i.ytimg.com/vi/xCGPPimXgJU/maxresdefault.jpg)
 
-As you begin building your React project you might be thinking about a way to integrate a design pattern using Bootstrap. This free and open-source framework for responsive development contains CSS and JavaScript based design templates for a number of different interface components. Using Bootstrap allows you to easily inpliment navbars, forms, buttons, and a variety of other functionality.
+As you begin building your React project you might be thinking about a way to integrate a design pattern using Bootstrap. This free and open-source framework for responsive development contains CSS and JavaScript based design templates for a number of different interface components. Using Bootstrap allows you to easily implement navbars, forms, buttons and a variety of other functionality.
 
 On it's own, React contains no method for creating responsive designs so using a framework like Bootstrap is a great way to streamline your front-end build. Combining Bootstrap to a project usually is as simple as including `<link rel="stylesheet" />` to your index.html file. Brace yourself, this won't work with your React project.
 
