@@ -1,12 +1,12 @@
 ---
 layout: post
 title:      "My First Hackathon: Part 1"
-date:       2019-04-20 02:30:52 +0000
+date:       2019-04-19 22:30:53 -0400
 permalink:  my_first_hackathon_part_1
 ---
 
 
-Tomorrow I will return to my alma matter **California State University Long Beach** to participate in [Beach Hacks](https://www.beachhacks.com/), my first **Hackathon**. I am so excited and because I've heard so many positive things about Hackathons. Regardless of the fact that I will be twice the age of most of the other participants I am extremely honored to be accepted and eager to learn from the experiences.
+Tomorrow I will return to my alma matter **California State University Long Beach** to participate in [Beach Hacks](https://www.beachhacks.com/), my first **Hackathon**. I am so excited because I've heard so many positive things about Hackathons. Regardless of the fact that I will be twice the age of most of the other participants I am extremely honored to be accepted and eager to learn from the experiences.
 
 ![Hackerman](https://i.kym-cdn.com/photos/images/newsfeed/001/004/553/5b0.gif)
 
