@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "My First Hackathon: Part 2"
-date:       2019-04-28 03:00:01 +0000
+date:       2019-04-27 23:00:02 -0400
 permalink:  my_first_hackathon_part_2
 ---
 
@@ -14,7 +14,7 @@ The competition was tough with over sixty submissions and teams coming from as f
 
 ![Puppy Googles](https://github.com/matt19271/PuppyGoggles/blob/master/client/src/images/puppygoggles.jpg?raw=true)
 
-My two teammates are currently enrolled as **Computer Science** majors at **CSULB**. They have developed a solid data science foundation working with in language Java through there studies, however, they hadn't worked yet with any libraries or frameworks. As a **Bootcamp** grad with more technical, application building abilities, I was able to build a **React** front-end for the project. We all came to learn and be challenged and just before beginning our project we attended a workshop covering all the current **Google Cloud Platform** tools for developers for inspiration.
+My two teammates are currently enrolled as **Computer Science** majors at **CSULB**. They have developed a solid **data science** foundation working with in language **Java** through there studies, however, they hadn't worked yet with any libraries or frameworks. As a **Bootcamp** grad with more technical, application building abilities, I was able to build a **React** front-end for the project. We all came to learn and be challenged and just before beginning our project we attended a workshop covering all the current **Google Cloud Platform** tools for developers for inspiration.
 
 During the Google workshop we spawned an idea while learning about the [Google Cloud Vision API](https://cloud.google.com/vision/). After an image is uploaded to the API, a list of data referencing the image is returned. When a dog photo is uploaded, the data returned include a list of specific breed predictions along with a confidence percentage for each.
 
