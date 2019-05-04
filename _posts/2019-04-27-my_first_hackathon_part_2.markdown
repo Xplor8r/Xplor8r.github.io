@@ -6,7 +6,7 @@ permalink:  my_first_hackathon_part_2
 ---
 
 
-I had such an fantastic experience last weekend participating in the **Beach Hacks** hackathon at my alma mater **California State University Long Beach**. I was twice the age of the majority of the other hackers but was blown away by the talent in the room. The event was held in the same room I saw the **Black Eyed Peas** perform live before they released their first album in *1998!*
+I had such a fantastic experience last weekend participating in the **Beach Hacks** hackathon at my alma mater **California State University Long Beach**. I was twice the age of the majority of the other hackers but was blown away by the talent in the room. The event was held in the same room I saw the **Black Eyed Peas** perform live before they released their first album in *1998!*
 
 ![Beach Hacks](https://media.licdn.com/dms/image/C4E22AQEdVHoJnNqK0Q/feedshare-shrink_8192/0?e=1559174400&v=beta&t=Fpjr1Tsq1DT3H8WM3fuhxX0ortSG7PA6NU2fs4dvPAQ)
 
