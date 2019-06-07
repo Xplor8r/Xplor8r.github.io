@@ -25,6 +25,7 @@ h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: normal;
   line-height: 1;
+  text-shadow: 2px 2px #050505;
 }
 h6.powered_by {
   font-size: 13px;
