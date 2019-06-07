@@ -69,6 +69,7 @@ hr.small {
   font-size: 12px;
   font-weight: 800;
   letter-spacing: 1px;
+  text-shadow: 2px 2px #050505;
 }
 @media only screen and (min-width: 768px) {
   .navbar-custom {
