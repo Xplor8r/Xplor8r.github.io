@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Git Commited"
-date:       2019-06-22 23:55:57 +0000
+date:       2019-06-22 19:55:58 -0400
 permalink:  git_commited
 ---
 
@@ -22,3 +22,5 @@ I have seen some cases where grads drop off the radar and don't continue pushing
 ![](https://i.imgur.com/JZrUNZr.gif)
 
 The creativity and problem solving skills required for any position as a web developer is what I thrive on most. I am committed to this career change and to my future. Out of all that is required to reach my goals, coding is the easiest to maintain.
+
+Feel free to follow me on [GitHub](https://github.com/Xplor8r)
