@@ -5,9 +5,7 @@ date:       2019-06-22 19:55:58 -0400
 permalink:  git_commited
 ---
 
-**BE CRAZY FOR CODE!**
-
-As a **Flatiron** grad still looking to break into a career as a web developer, I have received this advice(translated into my own words) several times. It's not easy to sustain momentum programming after graduating with a **CS Degree** or a **Coding Bootcamp**. However, technical recruiters want to see that you are passionate about code and **GitHub** is a perfect avenue to display your efforts publicly.
+**BE CRAZY FOR CODE!** As a **Flatiron** grad still looking to break into a career as a web developer, I have received this advice(translated into my own words) several times. It's not easy to sustain momentum programming after graduating with a **CS Degree** or a **Coding Bootcamp**. However, technical recruiters want to see that you are passionate about code and **GitHub** is a perfect avenue to display your efforts publicly.
 
 ![](https://i.stack.imgur.com/HMwTp.png)
 
