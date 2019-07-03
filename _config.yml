@@ -10,6 +10,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Xplor8r
 linkedin_username: michael-pieschel
+youtube_id: UC4O_-OpPQPCMEVYpwGo58UA
 # Build settings
 markdown: kramdown
 highlighter: rouge
